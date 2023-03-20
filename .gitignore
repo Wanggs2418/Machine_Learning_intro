@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-2022 ML_HW/
+2022 ML_HW.lnk
 doc/
 .Python
 build/
