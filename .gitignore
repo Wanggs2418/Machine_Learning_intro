@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+2022 ML_HW/
+doc/
 .Python
 build/
 develop-eggs/
